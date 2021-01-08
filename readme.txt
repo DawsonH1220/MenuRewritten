@@ -1,0 +1,1 @@
+This does the same exact thing as my menu system. It's just rewritten with switch statements.
