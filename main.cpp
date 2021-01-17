@@ -69,6 +69,7 @@ int main(){
                     std::cin >> width >> length;
                     result = width * length;
                     std::cout << "Area: " << result << std::endl;
+                    break;
                 }
                 case 'm':
                 case 'M':
